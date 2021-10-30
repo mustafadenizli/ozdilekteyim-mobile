@@ -1,0 +1,9 @@
+Created by testinium on 30.10.2021
+
+This is a concept file with following syntax for each concept.
+# kullanici adi ve sifre bilgisini gir
+* "com.ozdilek.ozdilekteyim:id/etEposta" kullanici adi texti bul ve "mustafadnzl29@hotmail.com" kullanici adi gir
+* "com.ozdilek.ozdilekteyim:id/etPassword" sifre texti bul "12345mustafa" sifre gir
+
+# Giris Yap butonuna tikla
+* "com.ozdilek.ozdilekteyim:id/btnLogin" elementi bul tikla

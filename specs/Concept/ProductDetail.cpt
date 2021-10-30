@@ -1,0 +1,7 @@
+Created by testinium on 30.10.2021
+
+This is a concept file with following syntax for each concept.
+# Rastgele bir urun secilir acilan urun detay sayfasının kontrolu yapilir
+* rastgele bir urun secilir
+* "2" saniye bekle
+* "Renk:" texti ile urun detay sayfasının kontrolu yapilir
